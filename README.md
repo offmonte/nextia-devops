@@ -5,6 +5,13 @@
 O projeto NEXTIA é um sistema de fidelidade integrado a um aplicativo móvel, permitindo que os clientes acumulem pontos em suas compras. Esses pontos podem ser trocados por descontos e brindes, incentivando a lealdade e contribuindo para o aumento do ticket médio das vendas. Além disso, a solução oferece uma interface prática e intuitiva para a gestão do programa de fidelidade, facilitando a análise de dados de vendas e auxiliando na tomada de decisões estratégicas.
 
 ---
+## Como Rodar Localmente
+
+1. Abra o projeto no Visual Studio Code.
+2. Certifique-se de que a extensão **Extension Pack for Java** está instalada.
+3. Pressione `F5` no teclado para executar o código.
+4. Importe o arquivo JSON para o Postman ou Insomnia.
+5. Execute os endpoints nos softwares mencionados.
 
 ## Testes da API
 

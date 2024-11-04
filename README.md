@@ -96,9 +96,11 @@ Aqui estão alguns schemas para testar a API no swagger
 
 ## Endpoints da API
 
-Os endpoints podem ser acessadas utilizando os link abaixos
+Os endpoints podem ser acessados utilizando os link abaixo
 
 https://nextia.azurewebsites.net/swagger-ui/index.html
+
+Caso deseje rodar a API localmente:
 
 http://localhost:8080/swagger-ui/index.html#/
 

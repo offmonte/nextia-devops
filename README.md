@@ -10,7 +10,7 @@ O projeto NEXTIA é um sistema de fidelidade integrado a um aplicativo móvel, p
 1. Abra o projeto no Visual Studio Code.
 2. Certifique-se de que a extensão **Extension Pack for Java** está instalada.
 3. Pressione `F5` no teclado para executar o código.
-4. Importe o arquivo JSON para o Postman ou Insomnia.
+4. Entre na URL localhost:8080/swagger-ui/index.html#/ 
 5. Execute os endpoints nos softwares mencionados.
 
 ## Testes da API
